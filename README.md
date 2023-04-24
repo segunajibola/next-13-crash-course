@@ -1,4 +1,4 @@
-# Next.js 13 Crash Course Project
+# Next.js 13 Crash Course Project.. 
 
 This is a project from my [Next.js 13 Crash Course](https://youtu.be/Y6KDk5iyrYE). It uses the newer features such as:
 
